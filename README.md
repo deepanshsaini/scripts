@@ -12,5 +12,7 @@ This lite scripts sniffs all the devices accessing your network and creates two 
 1. In the script change the sudo password to your machine sudo password
 2. Edit all the paths for output_file and graph_file where you want them to store in your os
 
-# Run
-  python arp-scan_networkSniffer.py in your terminal
+# Run in your terminal
+  
+  python arp-scan_networkSniffer.py 
+  
